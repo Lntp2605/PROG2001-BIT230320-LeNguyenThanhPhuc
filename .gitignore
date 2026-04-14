@@ -1,0 +1,29 @@
+# Build folders
+cmake-build-*/
+build/
+
+# CMake files
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# CLion / JetBrains
+.idea/
+*.iml
+
+# Executable files
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
