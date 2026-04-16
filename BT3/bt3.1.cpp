@@ -73,6 +73,7 @@ int main() {
     else {
         printf("all not positive");
     }
-    
+
+
     return 0;
 }
