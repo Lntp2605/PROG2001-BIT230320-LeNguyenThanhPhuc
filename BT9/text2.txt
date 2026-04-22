@@ -1,0 +1,2 @@
+So letter:0
+So digit:7
