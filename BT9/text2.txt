@@ -1,2 +1,2 @@
-So letter:0
-So digit:7
+So letter:8
+So digit:6
